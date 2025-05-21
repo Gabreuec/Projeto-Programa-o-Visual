@@ -1,0 +1,13 @@
+C:\Users\gsbri\Source\Repos\CotacaoDolar\CotacaoDolar\obj\Debug\CotacaoDolar.csproj.AssemblyReference.cache
+C:\Users\gsbri\Source\Repos\CotacaoDolar\CotacaoDolar\obj\Debug\CotacaoDolar.FrmCotacaoDolar.resources
+C:\Users\gsbri\Source\Repos\CotacaoDolar\CotacaoDolar\obj\Debug\CotacaoDolar.Properties.Resources.resources
+C:\Users\gsbri\Source\Repos\CotacaoDolar\CotacaoDolar\obj\Debug\CotacaoDolar.csproj.GenerateResource.cache
+C:\Users\gsbri\Source\Repos\CotacaoDolar\CotacaoDolar\obj\Debug\CotacaoDolar.csproj.CoreCompileInputs.cache
+C:\Users\gsbri\Source\Repos\CotacaoDolar\CotacaoDolar\bin\Debug\CotacaoDolar.exe.config
+C:\Users\gsbri\Source\Repos\CotacaoDolar\CotacaoDolar\bin\Debug\CotacaoDolar.exe
+C:\Users\gsbri\Source\Repos\CotacaoDolar\CotacaoDolar\bin\Debug\CotacaoDolar.pdb
+C:\Users\gsbri\Source\Repos\CotacaoDolar\CotacaoDolar\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gsbri\Source\Repos\CotacaoDolar\CotacaoDolar\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gsbri\Source\Repos\CotacaoDolar\CotacaoDolar\obj\Debug\CotacaoD.CFB50BE6.Up2Date
+C:\Users\gsbri\Source\Repos\CotacaoDolar\CotacaoDolar\obj\Debug\CotacaoDolar.exe
+C:\Users\gsbri\Source\Repos\CotacaoDolar\CotacaoDolar\obj\Debug\CotacaoDolar.pdb
